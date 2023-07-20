@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logout</title>
+    <link rel="stylesheet" href="style.css"> <!-- Include your CSS file if needed -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="lgpage"><h1>Logout Page</h1>
+        </div>
+       <div class="surelog"><p>Are you sure you want to logout?</p>
+       </div>
+        <div class="logout-btn">
+            <span class="material-icons-sharp"><button id="logout-btn">LOG-OUT</button>
+        </div>
+    </div>
+
+
+    <script>
+            document.getElementById("logout-btn").addEventListener("click", function() {
+                // Display the blank screen
+                window.location.href = "uilogin.html";
+            });
+    </script>
+</body>
+</html>
