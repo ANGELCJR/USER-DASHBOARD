@@ -1,7 +1,7 @@
 
 Enter website with this url down below 
 
-[https://angelcjr.github.io/USER-DASHBOARD/dashboard.html]
+https://angelcjr.github.io/USER-DASHBOARD/dashboard.html
 
 
 ![eqw](https://github.com/ANGELCJR/USER-DASHBOARD/assets/79959345/e57e877d-deb5-45f0-aca5-6d9c67e342cf)
